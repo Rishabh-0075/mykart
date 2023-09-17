@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mykart/static/css/main.10d6213b.css",
+    "main.js": "/mykart/static/js/main.88e78911.js",
+    "static/js/787.e8ae1171.chunk.js": "/mykart/static/js/787.e8ae1171.chunk.js",
+    "static/media/jessica-radanavong-IchPBHFD0pw-unsplash.png": "/mykart/static/media/jessica-radanavong-IchPBHFD0pw-unsplash.3ad8ac44c189ee44f7ea.png",
+    "static/media/jessica-radanavong-IchPBHFD0pw-unsplash-crop.png": "/mykart/static/media/jessica-radanavong-IchPBHFD0pw-unsplash-crop.839a530228571e905405.png",
+    "static/media/18591063.png": "/mykart/static/media/18591063.7261d9d9dbfb89fe4119.png",
+    "static/media/Star 3.png": "/mykart/static/media/Star 3.bfdd07314619a3afe02f.png",
+    "static/media/Star 3-crop.png": "/mykart/static/media/Star 3-crop.884555e208047b97de6f.png",
+    "index.html": "/mykart/index.html",
+    "main.10d6213b.css.map": "/mykart/static/css/main.10d6213b.css.map",
+    "main.88e78911.js.map": "/mykart/static/js/main.88e78911.js.map",
+    "787.e8ae1171.chunk.js.map": "/mykart/static/js/787.e8ae1171.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d6213b.css",
+    "static/js/main.88e78911.js"
+  ]
+}
